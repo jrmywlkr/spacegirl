@@ -1,0 +1,17 @@
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEditor.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Mono.Cecil.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Unity.DataContract.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/calvin/Documents/Unity/spacegirl/Temp/bin/Debug/Mono.Cecil.Mdb.dll

@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{CBF92DD7-73C8-D7B0-7A6C-C062C88AC4CF}</ProjectGuid>
+    <ProjectGuid>{B41F968B-7804-E23F-3EA2-08B9B6B043BD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,6 +63,7 @@
      <Compile Include="Assets\Examples\Scripts\SpineGauge.cs" />
      <Compile Include="Assets\Examples\Scripts\Spineboy.cs" />
      <Compile Include="Assets\Examples\Scripts\SpineboyPole.cs" />
+     <Compile Include="Assets\MovementController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\spine-csharp\Animation.cs" />
      <Compile Include="Assets\spine-csharp\AnimationState.cs" />
