@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f1b3b4b945939a54ea0b23d3396115fb
+timeCreated: 1491853833
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skeletonJSON: {fileID: 4900000, guid: 5fc903e9d66cf4c4697bf63a3cd70c72, type: 3}
+  - controller: {fileID: 9100000, guid: eec8d34cb56184bb39957608d810ac8c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,153 @@
+
+N_SG.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SG_N_Belt
+  rotate: false
+  xy: 790, 388
+  size: 168, 65
+  orig: 168, 65
+  offset: 0, 0
+  index: -1
+SG_N_L_Foot
+  rotate: false
+  xy: 484, 67
+  size: 58, 88
+  orig: 58, 88
+  offset: 0, 0
+  index: -1
+SG_N_L_Hand
+  rotate: false
+  xy: 519, 322
+  size: 41, 95
+  orig: 41, 95
+  offset: 0, 0
+  index: -1
+SG_N_L_Larm
+  rotate: true
+  xy: 182, 99
+  size: 59, 144
+  orig: 59, 144
+  offset: 0, 0
+  index: -1
+SG_N_L_Shin
+  rotate: true
+  xy: 790, 455
+  size: 54, 182
+  orig: 54, 182
+  offset: 0, 0
+  index: -1
+SG_N_L_Sole
+  rotate: true
+  xy: 151, 2
+  size: 49, 98
+  orig: 49, 98
+  offset: 0, 0
+  index: -1
+SG_N_L_Thigh
+  rotate: true
+  xy: 333, 419
+  size: 90, 227
+  orig: 90, 227
+  offset: 0, 0
+  index: -1
+SG_N_L_Uarm
+  rotate: true
+  xy: 328, 82
+  size: 71, 154
+  orig: 71, 154
+  offset: 0, 0
+  index: -1
+SG_N_R_Foot
+  rotate: true
+  xy: 661, 362
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+SG_N_R_Hand
+  rotate: true
+  xy: 562, 322
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+SG_N_R_Larm
+  rotate: true
+  xy: 151, 53
+  size: 44, 144
+  orig: 44, 144
+  offset: 0, 0
+  index: -1
+SG_N_R_Shin
+  rotate: true
+  xy: 333, 362
+  size: 55, 184
+  orig: 55, 184
+  offset: 0, 0
+  index: -1
+SG_N_R_Sole
+  rotate: true
+  xy: 562, 365
+  size: 55, 97
+  orig: 55, 97
+  offset: 0, 0
+  index: -1
+SG_N_R_Thigh
+  rotate: true
+  xy: 562, 422
+  size: 87, 226
+  orig: 87, 226
+  offset: 0, 0
+  index: -1
+SG_N_R_Uarm
+  rotate: true
+  xy: 333, 284
+  size: 76, 160
+  orig: 76, 160
+  offset: 0, 0
+  index: -1
+SG_N_Torso
+  rotate: false
+  xy: 2, 129
+  size: 178, 380
+  orig: 178, 380
+  offset: 0, 0
+  index: -1
+SG_N_head
+  rotate: true
+  xy: 331, 155
+  size: 127, 149
+  orig: 127, 149
+  offset: 0, 0
+  index: -1
+SG_N_helmet_b
+  rotate: false
+  xy: 182, 160
+  size: 147, 170
+  orig: 147, 170
+  offset: 0, 0
+  index: -1
+SG_N_helmet_f
+  rotate: false
+  xy: 182, 332
+  size: 149, 177
+  orig: 149, 177
+  offset: 0, 0
+  index: -1
+SG_N_helmetbp
+  rotate: true
+  xy: 482, 157
+  size: 125, 59
+  orig: 125, 59
+  offset: 0, 0
+  index: -1
+SG_N_jp
+  rotate: true
+  xy: 2, 13
+  size: 114, 147
+  orig: 114, 147
+  offset: 0, 0
+  index: -1

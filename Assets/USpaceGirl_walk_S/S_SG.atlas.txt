@@ -1,0 +1,146 @@
+
+S_SG.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SG_S_Belt
+  rotate: false
+  xy: 773, 387
+  size: 168, 67
+  orig: 168, 67
+  offset: 0, 0
+  index: -1
+SG_S_L_Foot
+  rotate: false
+  xy: 355, 230
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+SG_S_L_Hand
+  rotate: false
+  xy: 287, 68
+  size: 43, 94
+  orig: 43, 94
+  offset: 0, 0
+  index: -1
+SG_S_L_Larm
+  rotate: true
+  xy: 314, 314
+  size: 44, 144
+  orig: 44, 144
+  offset: 0, 0
+  index: -1
+SG_S_L_Shin
+  rotate: true
+  xy: 314, 360
+  size: 58, 185
+  orig: 58, 185
+  offset: 0, 0
+  index: -1
+SG_S_L_Thigh
+  rotate: true
+  xy: 543, 423
+  size: 87, 228
+  orig: 87, 228
+  offset: 0, 0
+  index: -1
+SG_S_L_Uarm
+  rotate: false
+  xy: 152, 2
+  size: 72, 160
+  orig: 72, 160
+  offset: 0, 0
+  index: -1
+SG_S_R_Foot
+  rotate: true
+  xy: 355, 165
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+SG_S_R_Hand
+  rotate: false
+  xy: 332, 70
+  size: 43, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1
+SG_S_R_Larm
+  rotate: false
+  xy: 294, 168
+  size: 59, 144
+  orig: 59, 144
+  offset: 0, 0
+  index: -1
+SG_S_R_Shin
+  rotate: true
+  xy: 773, 456
+  size: 54, 185
+  orig: 54, 185
+  offset: 0, 0
+  index: -1
+SG_S_R_Thigh
+  rotate: true
+  xy: 314, 420
+  size: 90, 227
+  orig: 90, 227
+  offset: 0, 0
+  index: -1
+SG_S_R_Uarm
+  rotate: false
+  xy: 226, 6
+  size: 59, 156
+  orig: 59, 156
+  offset: 0, 0
+  index: -1
+SG_S_Torso
+  rotate: false
+  xy: 2, 182
+  size: 161, 328
+  orig: 161, 328
+  offset: 0, 0
+  index: -1
+SG_S_brows
+  rotate: true
+  xy: 943, 387
+  size: 67, 10
+  orig: 67, 10
+  offset: 0, 0
+  index: -1
+SG_S_eyes
+  rotate: true
+  xy: 424, 247
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+SG_S_head
+  rotate: false
+  xy: 165, 164
+  size: 127, 169
+  orig: 127, 169
+  offset: 0, 0
+  index: -1
+SG_S_helmet_b
+  rotate: false
+  xy: 2, 6
+  size: 148, 174
+  orig: 148, 174
+  offset: 0, 0
+  index: -1
+SG_S_helmet_f
+  rotate: false
+  xy: 165, 335
+  size: 147, 175
+  orig: 147, 175
+  offset: 0, 0
+  index: -1
+SG_S_mouth
+  rotate: false
+  xy: 960, 493
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+E_SG.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_bb
+  rotate: true
+  xy: 718, 284
+  size: 137, 60
+  orig: 137, 60
+  offset: 0, 0
+  index: -1
+arm_f
+  rotate: true
+  xy: 454, 307
+  size: 74, 138
+  orig: 74, 138
+  offset: 0, 0
+  index: -1
+arm_f Copy
+  rotate: true
+  xy: 766, 441
+  size: 69, 184
+  orig: 69, 184
+  offset: 0, 0
+  index: -1
+arm_tb
+  rotate: true
+  xy: 180, 50
+  size: 117, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+belt
+  rotate: false
+  xy: 268, 219
+  size: 118, 51
+  orig: 118, 51
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 180, 18
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+foot_b
+  rotate: false
+  xy: 780, 375
+  size: 106, 64
+  orig: 106, 64
+  offset: 0, 0
+  index: -1
+foot_f
+  rotate: false
+  xy: 147, 169
+  size: 119, 69
+  orig: 119, 69
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: false
+  xy: 888, 363
+  size: 62, 76
+  orig: 62, 76
+  offset: 0, 0
+  index: -1
+hair_f
+  rotate: false
+  xy: 454, 383
+  size: 135, 127
+  orig: 135, 127
+  offset: 0, 0
+  index: -1
+hand_b
+  rotate: false
+  xy: 780, 312
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 952, 405
+  size: 70, 105
+  orig: 70, 105
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 594, 311
+  size: 110, 122
+  orig: 110, 122
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 2, 2
+  size: 150, 176
+  orig: 150, 176
+  offset: 0, 0
+  index: -1
+leg_clv_b
+  rotate: true
+  xy: 591, 423
+  size: 87, 173
+  orig: 87, 173
+  offset: 0, 0
+  index: -1
+leg_clv_f
+  rotate: false
+  xy: 379, 312
+  size: 73, 198
+  orig: 73, 198
+  offset: 0, 0
+  index: -1
+leg_thigh_b
+  rotate: false
+  xy: 266, 272
+  size: 111, 238
+  orig: 111, 238
+  offset: 0, 0
+  index: -1
+leg_thigh_f
+  rotate: false
+  xy: 147, 240
+  size: 117, 270
+  orig: 117, 270
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 2, 154
+  size: 143, 356
+  orig: 143, 356
+  offset: 0, 0
+  index: -1
