@@ -15,7 +15,6 @@ public class MovementController : MonoBehaviour {
 
 	public float speed;
 	private float currentMoveSpeed;
-	// Use this for initialization
 
 	void Start () {
 		skeletonAnimations = FindObjectsOfType<SkeletonAnimation> ();
@@ -40,8 +39,6 @@ public class MovementController : MonoBehaviour {
 
 		Vector3 movement = new Vector3 (moveHorizontal, 0.0f, moveVertical);
 		GetComponent<Rigidbody>().velocity = movement * speed;
-//		print (moveHorizontal);
-//		print (moveVertical);
 
 		if (Mathf.Abs (moveHorizontal) > 0 || Mathf.Abs (moveVertical) > 0) {
 			if (Mathf.Abs(moveHorizontal) > 0 && Mathf.Abs(moveVertical) > 0) {
@@ -126,8 +123,4 @@ public class MovementController : MonoBehaviour {
 			break;
 		}
 	}
-//	void showAnimation (SkeletonAnimation animation) {
-//		for (int i = 0; i < animations.length; i++) {
-//			
-//	}
 }
