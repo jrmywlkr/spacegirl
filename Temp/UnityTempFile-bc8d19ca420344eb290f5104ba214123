@@ -95,6 +95,7 @@
 'Assets/Examples/Scripts/SpineGauge.cs'
 'Assets/Examples/Scripts/Spineboy.cs'
 'Assets/Examples/Scripts/SpineboyPole.cs'
+'Assets/MovementController.cs'
 'Assets/Scripts/PlayerController.cs'
 'Assets/spine-csharp/Animation.cs'
 'Assets/spine-csharp/AnimationState.cs'
